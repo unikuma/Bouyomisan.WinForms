@@ -8,8 +8,8 @@
 - [導入方法](#導入方法)
     - [1. AquesTalkPlayerのダウンロード](#1-aquestalkplayerのダウンロード)
     - [2. 棒読みさんのダウンロード](#2-棒読みさんのダウンロード)
-- [バグ・不具合・質問等](#バグ・不具合・質問等)
-- [使用した言語・ツール・ライブラリ等](#使用した言語・ツール・ライブラリ等)
+- [バグ・不具合・質問等](#バグ-不具合-質問等)
+- [使用した言語・ツール・ライブラリ等](#使用した言語-ツール-ライブラリ等)
 
 # 導入方法
 ## 1. AquesTalkPlayerのダウンロード
@@ -23,10 +23,10 @@ https://www.a-quest.com/products/aquestalkplayer.html#download
 ![フォルダごとコピー](./image/フォルダごとコピー.png)
 これにて導入は終了になります。
 
-# バグ・不具合・質問等
+# バグ 不具合 質問等
 [作者Twitter](https://twitter.com/unikuma_sub)のリプライやDM、GitHubのIssueによろしくお願いします。
 
-# 使用した言語・ツール・ライブラリ等
+# 使用した言語 ツール ライブラリ等
 - C# (.NET6 & WinForms)
 - Microsoft Visual Studio Community 2022
 - NAudio https://github.com/naudio/NAudio  
