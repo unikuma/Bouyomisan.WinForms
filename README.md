@@ -18,7 +18,7 @@ https://www.a-quest.com/products/aquestalkplayer.html#download
 
 ## 2. 棒読みさんのダウンロード
 [Releaseページ](https://github.com/unikuma/Bouyomisan.WinForms/releases)から最新版の棒読みさんをダウンロードし、zipファイルを解凍します。  
-解凍が終わったら「bymsnwf.exe」があるフォルダに先ほど解凍した「aquestalkplayer」フォルダをコピーします。
+解凍が終わったら「bymsnwf.exe」があるフォルダに[手順1](#1-aquestalkplayerのダウンロード)で解凍した「aquestalkplayer」フォルダをコピーします。
 
 ![フォルダごとコピー](./image/フォルダごとコピー.png)
 これにて導入は終了になります。
