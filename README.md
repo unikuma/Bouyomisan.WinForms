@@ -1,6 +1,7 @@
 # 棒読みさん WinForms版
 棒読みさんはAquesTalkPlayerを使用し、音声と字幕を自動生成する為のツールです。  
-[mikado394mさんが開発しているゆくサク](https://github.com/mikado394m/yukkuriutil1)のような機能を持ち、それに加え発音のテストやwaveのみの出力などの追加機能も実装しています。  
+[mikado394mさんが開発しているゆくサク](https://github.com/mikado394m/yukkuriutil1)のような機能を持ち、それに加え発音のテストやwaveのみの出力などの追加機能も実装しています。
+
 ![棒読みさん メイン画面](./image/棒読みさんメイン画面.png)
 
 # 目次
@@ -18,6 +19,7 @@ https://www.a-quest.com/products/aquestalkplayer.html#download
 ## 2. 棒読みさんのダウンロード
 [Releaseページ](https://github.com/unikuma/Bouyomisan.WinForms/releases)から最新版の棒読みさんをダウンロードし、zipファイルを解凍します。  
 解凍が終わったら「bymsnwf.exe」があるフォルダに先ほど解凍した「aquestalkplayer」フォルダをコピーします。
+
 ![フォルダごとコピー](./image/フォルダごとコピー.png)
 これにて導入は終了になります。
 
