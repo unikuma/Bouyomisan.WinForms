@@ -262,8 +262,11 @@ _name=標準再生
 # 使用した言語 ツール ライブラリ等
 - C# (.NET6 & WinForms)
 - Microsoft Visual Studio Community 2022
-- NAudio https://github.com/naudio/NAudio  
-    Copyright &copy; 2020 Mark Heath  
-    MIT License
+- .NET Runtime / MIT License  
+    Copyright (c) .NET Foundation and Contributors  
+    https://github.com/dotnet/runtime
+- NAudio / MIT License  
+    Copyright 2020 Mark Heath  
+    https://github.com/naudio/NAudio
 - Extension.Serialization  
     Copyright &copy; 2023- unikuma
