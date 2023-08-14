@@ -1,4 +1,5 @@
 # 棒読みさん WinForms版
+![](./images/Bouyomisan.WinForms.png)  
 棒読みさんはAquesTalkPlayerを使用し、音声と字幕を自動生成する為のツールです。  
 [mikado394mさんが開発しているゆくサク](https://github.com/mikado394m/yukkuriutil1)のような機能を持ち、それに加え発音のテストやwaveのみの出力などの追加機能も実装しています。
 
