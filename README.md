@@ -268,11 +268,6 @@ _name=標準再生
 ## 使用させて頂いたライブラリ等
 - C# (.NET6 & WinForms)
 - Microsoft Visual Studio Community 2022
-- .NET Runtime / MIT License  
-    Copyright (c) .NET Foundation and Contributors  
-    https://github.com/dotnet/runtime
-- NAudio / MIT License  
-    Copyright 2020 Mark Heath  
-    https://github.com/naudio/NAudio
 - Extension.Serialization  
     Copyright &copy; 2023- unikuma
+- 他ライブラリは`CREDITS.md`を参照
