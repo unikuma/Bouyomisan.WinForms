@@ -270,4 +270,4 @@ _name=標準再生
 - Microsoft Visual Studio Community 2022
 - Extension.Serialization  
     Copyright &copy; 2023- unikuma
-- 他ライブラリは`CREDITS.md`を参照
+- 他ライブラリは CREDITS.md を参照
